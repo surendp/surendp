@@ -8,7 +8,7 @@ Gmail: surendrapandey185@gmail.com
 ### My Projects
 
 #### Rostergrid
-Rostergrid is a full fledged web application containing 1 backend application, 2 backend applications, and 1 landing page. It is a shift scheduling system created for companies implementing a shift based work system. The technologies used are: Node, Express, PostgreSQL, React, Redux, and SCSS.
+Rostergrid is a full fledged web application containing 1 backend application, 2 frontend applications, and 1 landing page. It is a shift scheduling system created for companies implementing a shift based work system. The technologies used are: Node, Express, PostgreSQL, React, Redux, and SCSS.
 
 #### Himalayan Kitchen
 Himalayan Kitchen is a website project created for learning purposes. It contains an API powered backend that serves the lunch and alacarte menu from multiple text files. The technologies used are: Java, Spring boot, React, CSS, Maven, Webpack, and npm.
