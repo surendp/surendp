@@ -7,16 +7,16 @@ Gmail: surendrapandey185@gmail.com
 
 ### My Projects
 
-####Rostergrid
+#### Rostergrid
 Rostergrid is a full fledged web application containing 1 backend application, 2 backend applications, and 1 landing page. It is a shift scheduling system created for companies implementing a shift based work system. The technologies used are: Node, Express, PostgreSQL, React, Redux, and SCSS.
 
-####Himalayan Kitchen
+#### Himalayan Kitchen
 Himalayan Kitchen is a website project created for learning purposes. It contains an API powered backend that serves the lunch and alacarte menu from multiple text files. The technologies used are: Java, Spring boot, React, CSS, Maven, Webpack, and npm.
 
-####Board Game
+#### Board Game
 Board Game is a mind game created as a final assignment for a Mobile Programming course. There are two different versions of the game. The first version was created using JQuery to meet the requirements of the course. The second version was created implementing OOP concepts using Javascript classes (ES6 syntax). The technologies used are: JQuery, ES6 classes, Canvas, CSS.
 
-####Minesweeper
+#### Minesweeper
 This is my first project in my programming journey. It is a console based game and it contains three different levels: easy, medium, and hard. The player needs to mark all the mines to win the game. If any of the mines is triggered the game is over. It is created using C programming.
 
 
